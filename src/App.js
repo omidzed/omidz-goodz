@@ -3,6 +3,7 @@ import Home from './routes/home/home.component';
 import Navigation from './routes/navigation/navigation.component';
 import SignIn from './routes/sign-in/sign-in.component';
 
+//this my experiment to switch this project to tailwind from scss, the original vesion is still in the same form on main branch
 const Shop = () => {
 	return <h1>I am the shop page</h1>;
 };
